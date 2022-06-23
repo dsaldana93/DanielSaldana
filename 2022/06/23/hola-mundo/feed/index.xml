@@ -9,7 +9,7 @@
 	<title>
 	Comentarios en: Desarrollador	</title>
 	<atom:link href="http://localhost/DanielSaldana/2022/06/23/hola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dsaldana93.github.io/DanielSaldana/2022/06/23/hola-mundo/</link>
+	<link>https://dsaldana93.github.io/DanielSaldana/2022/06/23/hola-mundo/</link>
 	<description>&#34; Diseñar, programar y crear. &#34;</description>
 	<lastBuildDate>Thu, 23 Jun 2022 15:49:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>/https://dsaldana93.github.io/DanielSaldana/2022/06/23/hola-mundo/#comment-1</link>
+		<link>https://dsaldana93.github.io/DanielSaldana/2022/06/23/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Thu, 23 Jun 2022 14:08:47 +0000</pubDate>
-		<guid isPermaLink="false">/https://dsaldana93.github.io/DanielSaldana/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://dsaldana93.github.io/DanielSaldana/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, esto es un comentario.
 Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
