@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Daniel Saldana</title>
-	<atom:link href="http://localhost/DanielSaldana/feed/" rel="self" type="application/rss+xml" />
+	<title>Desarrollo de proyectos &#8211; Daniel Saldana</title>
+	<atom:link href="http://localhost/DanielSaldana/category/proyectos-ti/feed/" rel="self" type="application/rss+xml" />
 	<link>/https://dsaldana93.github.io/DanielSaldana</link>
 	<description>&#34; Diseñar, programar y crear. &#34;</description>
 	<lastBuildDate>Thu, 23 Jun 2022 15:49:05 +0000</lastBuildDate>
